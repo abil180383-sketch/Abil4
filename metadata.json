@@ -1,0 +1,6 @@
+{
+  "name": "Baoli Highvill Astana | Luxury Lounge & Restaurant",
+  "description": "Астананың ең беделді мекені Highvill кешеніндегі авторлық асхана, ерекше миксология және премиум лаундж кеңістігі.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
